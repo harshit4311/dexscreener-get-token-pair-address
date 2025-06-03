@@ -1,0 +1,1 @@
+curl https://api.dexscreener.com/token-pairs/v1/ethereum/your_token_address
